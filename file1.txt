@@ -3,3 +3,8 @@ This is a git learn repo
 Undo this change
 This is commit 1
 This is commit 2
+This is commit 3
+This is stash 
+--------------------------
+Learning stash
+--------------------------
